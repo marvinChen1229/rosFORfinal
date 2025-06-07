@@ -1,4 +1,4 @@
-# 基於ROS的掃地機器人專案
+# ROS掃地機器人專案
 
 ## 目標
 開發一個基於ROS的掃地機器人，並在Gazebo環境中模擬實作結果。該機器人具備以下功能：
@@ -78,7 +78,7 @@
 
 ## 使用說明
 
-1. 克隆此專案到您的工作區：
+1. copy此專案到您的工作區：
    ```bash
    cd ~/catkin_ws/src
    git clone https://github.com/rayyichen310/-final-project.git Sweeping-Robot-main
